@@ -4,9 +4,13 @@
 This project provides a simple Python program that encodes user input text by shifting each letter by 15 characters. The program consists of two functions: change_letter() and change_sentence(). The change_letter() function takes a single letter as input and returns an encoded letter, while the change_sentence() function takes user input text and encodes it using the change_letter() function. The program also includes a loop that allows users to encode multiple words/sentences until they choose to stop.
 
 **Table of Contents**
+
 Installation
+
 Usage
+
 Credits
+
 
 **Installation**
 To use this program locally, follow these steps:
